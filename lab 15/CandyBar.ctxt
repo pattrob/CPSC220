@@ -1,0 +1,15 @@
+#BlueJ class context
+comment0.target=CandyBar
+comment0.text=\n\ This\ class\ defines\ a\ CandyBar\ object.\n\n\ @author\ Dr.\ Zeitz\n\ @version\ CPSC\ 220\n
+comment1.params=n\ c\ w
+comment1.target=CandyBar(java.lang.String,\ CandyBar.Color,\ double)
+comment1.text=\n\ Constructor\ for\ objects\ of\ class\ CandyBar\n
+comment2.params=
+comment2.target=java.lang.String\ getName()
+comment3.params=
+comment3.target=double\ getWeight()
+comment4.params=
+comment4.target=CandyBar.Color\ getWrapperColor()
+comment5.params=
+comment5.target=void\ printInfo()
+numComments=6

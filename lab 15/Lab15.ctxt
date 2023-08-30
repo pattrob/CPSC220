@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.target=Lab15
+comment0.text=\n\ This\ lab\ practices\ implementing\ sorting\ algorithms.\n\n\ @author\ Dr.\ Zeitz\n\ @version\ CPSC\ 220\n
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment2.params=list
+comment2.target=void\ bubbleSort(java.util.ArrayList)
+comment3.params=list
+comment3.target=void\ selectionSort(java.util.ArrayList)
+comment4.params=list
+comment4.target=void\ insertionSort(java.util.ArrayList)
+comment5.params=list
+comment5.target=void\ printList(java.util.ArrayList)
+comment6.params=list
+comment6.target=void\ addCandyBarsToList(java.util.ArrayList)
+numComments=7

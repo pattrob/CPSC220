@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=Time
+comment1.params=
+comment1.target=Time()
+comment2.params=hours\ minutes\ seconds
+comment2.target=Time(int,\ int,\ int)
+comment3.params=s
+comment3.target=void\ increment(int)
+comment4.params=
+comment4.target=java.lang.String\ toStringStandard()
+comment5.params=military
+comment5.target=void\ print(boolean)
+numComments=6

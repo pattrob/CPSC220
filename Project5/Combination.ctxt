@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=Combination
+comment0.text=\n\ *\ This\ class\ defines\ the\ Combination\ object\n\ \n\ @author\ Patton\ Robertson\n\ @Project\ 5\ CPSC\ 220\n
+comment1.params=n\ k
+comment1.target=Combination(long,\ long)
+comment2.params=
+comment2.target=long\ getNValue()
+comment3.params=
+comment3.target=long\ getKValue()
+numComments=4

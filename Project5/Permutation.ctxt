@@ -1,0 +1,15 @@
+#BlueJ class context
+comment0.target=Permutation
+comment0.text=\n\ This\ class\ defines\ the\ Permutation\ object\n\ \n\ @author\ Patton\ Robertson\n\ @Project\ 5\ CPSC\ 220\n
+comment1.params=
+comment1.target=Permutation()
+comment1.text=\n\ Default\ constructor\ for\ objects\ of\ the\ Permutation\ class\n
+comment2.params=n
+comment2.target=void\ setNValue(long)
+comment3.params=k
+comment3.target=void\ setKValue(long)
+comment4.params=
+comment4.target=long\ getNValue()
+comment5.params=
+comment5.target=long\ getKValue()
+numComments=6

@@ -1,0 +1,21 @@
+#BlueJ class context
+comment0.target=Lab14
+comment0.text=\n\ This\ lab\ practices\ writing\ and\ using\ search\ algorithms.\n\n\ @author\ Dr.\ Zeitz\n\ @version\ CPSC\ 220\n
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment2.params=list\ n
+comment2.target=int\ findCandyBar(java.util.ArrayList,\ java.lang.String)
+comment2.text=\n\ This\ method\ searches\ a\ list\ to\ find\ a\ candy\ bar\ by\ name.\n\n\ @param\ \ \ \ list\ \ \ \ the\ list\ to\ search\n\ @param\ \ \ \ n\ \ \ \ \ \ \ \ a\ name\ to\ find\n\ @return\ \ \ \ \ \ \ \ \ \ \ \ the\ index\ of\ the\ candy\ bar\ \n
+comment3.params=list\ c
+comment3.target=void\ findByColor(java.util.ArrayList,\ CandyBar.Color)
+comment3.text=\n\ This\ method\ prints\ the\ names\ of\ the\ candy\ bars\ that\ have\ a\ certain\n\ wrapper\ color.\n\n\ @param\ \ \ \ list\ \ \ \ the\ list\ to\ search\n\ @param\ \ \ \ c\ \ \ \ \ \ \ \ the\ color\ wrapper\ to\ find\ \n
+comment4.params=list\ weight
+comment4.target=int\ countByWeight(java.util.ArrayList,\ double)
+comment4.text=\n\ This\ method\ counts\ the\ number\ of\ candy\ bars\ that\ weigh\ greater\ than\n\ or\ equal\ to\ the\ weight\ input\ parameter.\n\n\ @param\ \ \ \ list\ \ \ \ the\ list\ to\ search\n\ @param\ \ \ \ w\ \ \ \ \ \ \ \ the\ weight\ to\ compare\ to\n\ @return\ \ \ \ \ \ \ \ \ \ \ \ the\ count\ of\ candy\ bars\ \n
+comment5.params=list\ first\ last\ w
+comment5.target=int\ binaryFind(java.util.ArrayList,\ int,\ int,\ double)
+comment5.text=\n\ This\ method\ searches\ a\ list\ using\ binary\ search.\n\n\ @param\ \ \ \ list\ \ \ \ the\ list\ to\ search\n\ @param\ \ \ \ first\ \ \ the\ first\ index\n\ @param\ \ \ \ last\ \ \ \ the\ last\ index\n\ @param\ \ \ \ w\ \ \ \ \ \ \ \ the\ value\ to\ search\ for\n\ @return\ \ \ \ \ \ \ \ \ \ \ \ the\ index\ of\ the\ candy\ bar\ \n
+comment6.params=list
+comment6.target=void\ addCandyBarsToList(java.util.ArrayList)
+comment6.text=\n\ This\ method\ adds\ candy\ bars\ to\ a\ list.\n\n\ @param\ \ \ \ list\ \ \ \ the\ list\ to\ add\ to\n
+numComments=7
